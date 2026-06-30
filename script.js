@@ -29,8 +29,6 @@ continueBtn.addEventListener("click", () => {
 
 });
 
-});
-
 letterBtn.addEventListener("click",()=>{
 
     mainPage.classList.add("fadeOut");
@@ -47,7 +45,6 @@ letterBtn.addEventListener("click",()=>{
 
     },600);
 
-});
 });
 
 //==============================
